@@ -1,16 +1,21 @@
-# weather
+# WeatherApp
+Barebones weather app made in flutter
 
-weather app
+Uses two Rest APIs,
+The US Census Bureau API for getting the location of the user from an address.
 
-## Getting Started
+https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf
 
-This project is a starting point for a Flutter application.
+and the National Weather Service API for getting the weather
 
-A few resources to get you started if this is your first Flutter project:
+https://www.weather.gov/documentation/services-web-api
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+TODO:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implement icons better
+
+Give boxes rounded corners
+
+Make loading screen
+
+Make code readable
