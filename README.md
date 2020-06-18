@@ -11,6 +11,7 @@ and the National Weather Service API for getting the weather
 https://www.weather.gov/documentation/services-web-api
 
 TODO:
+
 Implement icons better
 
 Give boxes rounded corners
