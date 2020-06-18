@@ -12,5 +12,9 @@ https://www.weather.gov/documentation/services-web-api
 
 TODO:
 Implement icons better
+
 Give boxes rounded corners
+
 Make loading screen
+
+Make code readable
